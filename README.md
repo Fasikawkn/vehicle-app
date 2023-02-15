@@ -1,16 +1,15 @@
-# vehicle_app
+# Vehicle App
 
-A new Flutter project.
+A simple flutter application to display a list of vehicles. Any vehicle that gives 15km/litre or above and 5 year old or less is considered to be fuel efficient and low pollutant. This vehicle will have a green color coding. 15km/litre or above but older than 5 year will be fuel efficient, but moderately pollutant. These vehicles will have amber color coding. Cars other than the two conditions else will be red colored.
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/Fasikawkn/vehicle-app/blob/main/assets/demo_image.png" width="300" height="650" />
 
-A few resources to get you started if this is your first Flutter project:
+## Video Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/56532140/219116160-0306d350-a3a2-4f47-8d61-eedbf2c9041b.mp4
+
+
+
