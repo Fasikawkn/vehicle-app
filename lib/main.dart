@@ -6,7 +6,7 @@ import 'package:vehicle_app/app/provider/vehicle_provider.dart';
 
 Future main() async{
   WidgetsFlutterBinding.ensureInitialized();
- await Firebase.initializeApp();
+  await Firebase.initializeApp();
 
   runApp(
     ChangeNotifierProvider(
